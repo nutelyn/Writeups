@@ -15,3 +15,11 @@
 | 10 | what's a netcat | 100 |
 | 11 | strings it | 100 |
 | 12 | Bases | 100 |
+| 13 | First Grep | 100 |
+| 14 | Codebook | 100 |
+| 15 | convertme.py | 100 |
+| 16 | fixme1.py | 100 |
+| 17 | fixme2.py | 100 |
+| 18 | Glitch Cat | 100 |
+| 19 | HashingJobApp | 100 |
+| 20 | PW Crack 1 | 100 |
