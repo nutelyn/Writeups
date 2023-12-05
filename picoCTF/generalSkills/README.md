@@ -23,3 +23,13 @@
 | 18 | Glitch Cat | 100 |
 | 19 | HashingJobApp | 100 |
 | 20 | PW Crack 1 | 100 |
+| 21 | PW Crack 2 | 100 |
+| 22 | PW Crack 3 | 100 |
+| 23 | PW Crack 4 | 100 |
+| 24 | PW Crack 5 | 100 |
+| 25 | runme.py | 100 |
+| 26 | Serpentine | 100 |
+| 27 | First Find | 100 |
+| 28 | Big Zip | 100 |
+| 29 | chrono | 100 |
+| 30 | money-ware | 100 |
