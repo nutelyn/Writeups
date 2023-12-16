@@ -1,4 +1,4 @@
-![Analytics-Pwned.png](./img/Analytics.png)
+![Analytics.png](./img/Analytics.png)
 # Initial Reconnaissance
 1. `curl -I 10.10.11.224` to find a possible location / DNS name
 2. get a result of `analytical.htb`, add to `/etc/hosts`

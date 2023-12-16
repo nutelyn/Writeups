@@ -1,4 +1,4 @@
-![[CozyHosting 1.png]]
+![cozyhosting.png](./img/CozyHosting.png)
 # Initial Reconnaissance
 1. `curl -I 10.10.11.230` to find possible location / DNS name
 2. get a result of `cozyhosting.htb`, add to `/etc/hosts`
@@ -43,5 +43,4 @@
 3. `cat /root/root/txt`
 4. flag: `a324942ccd71927d1e4fc8c564c57995`
 
-![[CozyHosting-Pwned.png]]
-   
+![cozyhosting.png](./img/CozyHosting-Pwned.png)
